@@ -1,4 +1,4 @@
-package adder
+package main
 
 import "testing"
 
